@@ -2,6 +2,8 @@
 ## Overview
 This research explores the challenges of gender bias in facial expression recognition (FER) systems. It employs five deep learning algorithms—Sequential, ResNet-50, DenseNet, MobileNetV2, and InceptionV3—to evaluate their performance and fairness across diverse datasets. The study aims to provide comprehensive insights into the demographic effects on FER and the efficacy of different models in mitigating gender bias.
 
+link to thesis [here](file:///C:/Users/abdul/Downloads/F24%20Thesis%20-%20Abdul-Mohammed%20(Approved).pdf)
+
 ### Objectives
 - To assess the performance of various deep learning models in FER tasks.
 
